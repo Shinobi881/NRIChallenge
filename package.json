@@ -1,0 +1,20 @@
+{
+  "name": "NRIChallenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for No Red Ink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinobi881/NRIChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinobi881/NRIChallenge/issues"
+  },
+  "homepage": "https://github.com/Shinobi881/NRIChallenge#readme"
+}
